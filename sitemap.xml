@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://some-records.github.io/%E5%B7%A5%E4%BD%9C/2022/08/28/%E6%9B%B4%E5%8D%B1%E9%99%A9%E7%9A%84%E6%A5%BC%E6%A2%AF.html</loc>
+    
+    <lastmod>2022-08-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://some-records.github.io/%E5%B7%A5%E4%BD%9C/2022/08/27/%E5%AE%89%E5%85%A8%E6%A3%80%E6%9F%A5%E5%92%8C%E5%BA%A7%E8%B0%88%E4%BC%9A.html</loc>
     
     <lastmod>2022-08-27</lastmod>
@@ -130,7 +139,7 @@
 
   <url>
     <loc>https://some-records.github.io/</loc>
-    <lastmod>2022-08-27</lastmod>
+    <lastmod>2022-08-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -138,56 +147,56 @@
   
   <url>
     <loc>https://some-records.github.io/tags/%E5%BC%80%E5%BF%83/</loc>
-    <lastmod>2022-08-27</lastmod>
+    <lastmod>2022-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://some-records.github.io/tags/%E6%81%90%E6%83%A7/</loc>
-    <lastmod>2022-08-27</lastmod>
+    <lastmod>2022-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://some-records.github.io/tags/%E6%B2%AE%E4%B8%A7/</loc>
-    <lastmod>2022-08-27</lastmod>
+    <lastmod>2022-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://some-records.github.io/tags/%E9%9C%87%E6%83%8A/</loc>
-    <lastmod>2022-08-27</lastmod>
+    <lastmod>2022-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://some-records.github.io/tags/%E7%83%A6%E6%81%BC/</loc>
-    <lastmod>2022-08-27</lastmod>
+    <lastmod>2022-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://some-records.github.io/tags/%E6%97%A0%E8%81%8A/</loc>
-    <lastmod>2022-08-27</lastmod>
+    <lastmod>2022-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://some-records.github.io/tags/%E6%99%95%E7%9C%A9/</loc>
-    <lastmod>2022-08-27</lastmod>
+    <lastmod>2022-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://some-records.github.io/tags/%E6%97%A0%E6%84%9F/</loc>
-    <lastmod>2022-08-27</lastmod>
+    <lastmod>2022-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -196,28 +205,28 @@
   
   <url>
     <loc>https://some-records.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2022-08-27</lastmod>
+    <lastmod>2022-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://some-records.github.io/categories/%E9%98%85%E8%AF%BB/</loc>
-    <lastmod>2022-08-27</lastmod>
+    <lastmod>2022-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://some-records.github.io/categories/%E5%B7%A5%E4%BD%9C/</loc>
-    <lastmod>2022-08-27</lastmod>
+    <lastmod>2022-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://some-records.github.io/categories/%E9%98%85%E8%AF%BB%E4%B8%8E%E5%B7%A5%E4%BD%9C/</loc>
-    <lastmod>2022-08-27</lastmod>
+    <lastmod>2022-08-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
